@@ -187,3 +187,45 @@ font-size: 16px;
 color: #727272;
 width: 542px;
 }
+.iconic{
+    display: flex;
+    gap:124px;
+    margin:100px 280px;
+}
+.icon{
+    width: 241.83px;
+height: 241.83px;
+border: 1px solid #FF900E;
+border-radius: 8px;
+
+}
+.iconics{
+    margin:40px 40px;
+}
+/* main 4 */
+.sponpor{
+    width: 542px;
+height: 129px;
+margin: 170px 450px;
+}
+.spn-title{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+}
+.spn-desc{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+}
+.spon-img{
+    display: flex;
+    gap: 90px;
+    margin-left: 100px;
+}
+footer{
+    margin: 150px 350px;
+    font-weight: 400;
+font-size: 20px;
+color: #424242;
+}
